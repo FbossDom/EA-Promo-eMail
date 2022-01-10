@@ -1,7 +1,7 @@
 # EA-Promo-eMail
 Promotional e-Mail from Electronic arts | Sims 4 dlc discount | Rebuild
 
-- Rebuilt by me
+- Rebuilt by me darkmode | lightmode is working
 - Might not be a perfect copy
 - Works in - Gmail web, android, web-mail
            - Yahoo web, android,
